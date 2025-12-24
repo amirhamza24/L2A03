@@ -42,11 +42,11 @@ The ERD illustrates the following relationships:
 - **Many-to-One (Bookings → Vehicle):** Multiple bookings can reference a single vehicle.
 - **Logical One-to-One (Logical):** Each booking connects exactly one user with one vehicle.
 
-  **ERD Tool Used:** Lucidchart
+**ERD Tool Used:** Lucidchart
 
-  **ERD Link:** https://lucid.app/lucidchart/d5bedb08-ea33-4f83-b7d7-3e8f32597ff0/edit?beaconFlowId=4C20E7EE557D72D2&invitationId=inv_f40e75ce-dc35-4870-a627-a45bbdbf9729&page=0_0#
+**ERD Link:** https://lucid.app/lucidchart/d5bedb08-ea33-4f83-b7d7-3e8f32597ff0/edit?beaconFlowId=4C20E7EE557D72D2&invitationId=inv_f40e75ce-dc35-4870-a627-a45bbdbf9729&page=0_0#
 
-  ***
+---
 
 ## Part 2: SQL Queries
 
