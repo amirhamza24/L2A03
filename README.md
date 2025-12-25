@@ -65,8 +65,8 @@ SELECT
     b.end_date,
     b.status
 FROM bookings AS b
-INNER JOIN users u ON b.user_id = u.user_id
-INNER JOIN vehicles v ON b.vehicle_id = v.vehicle_id;
+INNER JOIN users AS u ON b.user_id = u.user_id
+INNER JOIN vehicles AS v ON b.vehicle_id = v.vehicle_id;
 ```
 
 ### Query 2. Find Vehicles Never Booked (EXISTS / NOT EXISTS)
